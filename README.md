@@ -40,11 +40,11 @@ Estudante de Administração | Em transição para Tecnologia da Informação
 
 ## 🌐 Contato
 
-<a href="https://linkedin.com/in/seulink">
+<a href="https://www.linkedin.com/in/johny-maximino">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:johnyheleno@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
 </a>
 
